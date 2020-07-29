@@ -3,5 +3,4 @@ def find_element_index(array, value_to_find)
   until array[value_to_find] = i do
     i +=1
   end
-  return i
 end
